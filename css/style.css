@@ -1,0 +1,436 @@
+* {
+    box-sizing: border-box;
+}
+
+.clear{
+    clear: both;
+}
+
+body {
+    margin: 0; 
+    margin: auto; 
+    padding: auto;
+    font-family: 'Lexend Deca', sans-serif;     
+  }
+
+
+header {
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 10px;
+    margin-left: 10px;
+    float: left;
+    
+}
+
+.log{
+  width: 4%;  
+  height: 20px;
+  margin-left: -15px;
+}
+
+ul li {
+    display: inline-block;
+}
+
+.first-1{
+    margin-left: 620px;
+    text-decoration: none;
+
+}
+
+.second-2{
+    margin-left: 20px;
+    text-decoration: none;
+
+}
+
+.third-3{
+    margin-left: 20px;
+    text-decoration: none;
+
+}
+
+.fourth-4{
+    margin-left: 20px;
+    text-decoration: none;
+
+}
+
+.first-5{
+    margin-left: 20px;
+    text-decoration: none;
+
+}
+
+.second-6{
+    margin-left: 20px;
+    text-decoration: none;
+
+}
+
+.third-7{
+    margin-left: 50px;
+    text-decoration: none;
+
+}
+
+.fourth-8{
+    margin-left: 55px;
+    text-decoration: none;
+}
+
+.button-1{
+    background-color: orange;
+    width: 10%;
+    height: 40px;
+    border: 1px solid orange;
+    color: white;
+    position: relative;
+    bottom: -20px;
+
+}
+
+form.nosubmit {
+    border: none;
+    padding: 0;
+    position: relative;
+    bottom: -20px;
+    margin-left: 42px;
+}
+   
+input.nosubmit {
+    margin-left: 42px;    
+    position: relative;
+    bottom: -20px;
+    border: 1px solid #555;
+    width: 28%;
+    padding: 9px 4px 9px 40px;
+    background: transparent url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E") no-repeat 13px center;
+}
+
+.h1{
+    width: 29%;
+    position: relative;
+    bottom: -50px;
+    font-size: 388%;
+    text-decoration: black;
+    margin-left: 80px;
+}
+
+.icon-size1{
+    width: 10%;
+    margin-left: -40px;
+}
+
+.icon-size2{
+    width: 15%;
+    margin-left: -80px;
+}
+
+.icon-size3{
+    width: 25%;
+    margin-left: -150px;
+}
+
+.icon{
+    position: relative;
+    bottom: -45px;
+    margin-left: 80px;
+}
+
+.one-1{
+   height: 470px;
+   width: 100%;
+   /* border: 1px solid black;*/ 
+   background-image: url(https://img.freepik.com/free-photo/set-fruits-seeds-leaves_23-2148145087.jpg?w=2000);
+   float: left;
+}
+
+.nav{
+   height: 80px;
+   width: 100%;
+   /* border: 1px solid black;*/ 
+   background: rgb(190, 231, 247);
+   float: left;
+}
+
+.first-section{
+    /* height: 450px; */
+    padding: 8rem;
+    width: 100%;
+    /* border: 1px solid black;*/ 
+    float: left;
+    background-image: url(https://rud.ua/uploads/under_recipe/600x300_5fc4efe48010f.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
+
+.span-1{
+    text-decoration: none;
+    color: orange;
+    margin-left: 400px;
+    position: relative;
+    bottom: -15px;
+}
+
+.h1-2{
+    width: 25%;
+    margin-left: 400px;
+
+}
+
+.first-parag{
+    width: 50%;
+    margin-left: 400px;
+}
+
+.second-parag{
+    width: 50%;
+    margin-left: 400px;    
+}
+
+.button-2{
+    height: 50px;
+    width: 10%;
+    margin-left: 400px;
+    background: #ff9000;
+    border: #ff9000;
+    padding-right: 10px;
+
+    
+}
+
+.button-3{
+    padding: 11px 5px 13px 5px;
+    position: relative;
+    top: 10px;
+    right: 10px;
+    
+
+}
+
+.third-section{
+    height: 300px;
+    width: 100%;
+    /* border: 1px solid black;*/ 
+    float: left;
+    text-align: center;
+   background: rgb(214, 229, 245);
+   margin-top: -48px;
+}
+
+.list-2{
+    margin-left: -650px;
+    position: relative;
+    bottom: -80px;
+}
+
+.h1-3{
+    position: relative;
+    bottom: -90px;
+    font-size: 35px; 
+}
+
+.span-2{
+    position: relative;
+    bottom: -100px;
+    text-decoration: none; 
+    color: orange;
+}
+
+.section-div1{
+    height: 300px;
+    width: 25%;
+    /* border: 1px solid black;*/ 
+    float: left;
+    margin: auto;
+    font-size: 13px;
+    color: #333333;
+    font-family: Arial,Helvetica,sans-serif; 
+    background: url(https://cdn.pixabay.com/photo/2017/05/07/08/56/pancakes-2291908__480.jpg) repeat;
+    box-shadow: 0 0 5px 2px #282a2d;
+    line-height: 1.4;
+}
+
+.button-last1{
+    margin-left: 257px;
+    color: white;
+    background: #ff9000;
+}
+
+.h1-price{
+    text-align: center;
+    color: white;
+}
+
+.star{
+    text-align: center;
+    margin-left: 50px;
+}
+
+.h2-1{
+    text-align: center;
+    color: whitesmoke;
+}
+
+.button-last{
+    text-align: center;
+    margin-left: 105px;
+    height: 40px;
+    color: whitesmoke;
+    background: #ff9000;
+}
+
+.section-div2{
+    height: 300px;
+    width: 25%;
+    /* border: 1px solid black;*/ 
+    float: left;
+    margin: auto;
+    background: url(https://t4.ftcdn.net/jpg/01/80/23/57/360_F_180235724_re7asm0odpdBIJDRz5LSNkjtUr6aZUXG.jpg);
+}
+
+.section-div3{
+    height: 300px;
+    width: 25%;
+    /* border: 1px solid black;*/ 
+    float: left;
+    margin: auto;
+    background: url(https://media.istockphoto.com/id/533645537/photo/breakfast-with-bacon-eggs-pancakes-and-toast.jpg?s=612x612&w=0&k=20&c=TumrEwImmLi4TIVeirgynvTpHhyvt9LeiDXLci45NWg=);
+}
+
+.section-div4{
+    height: 300px;
+    width: 25%;
+    /* border: 1px solid black;*/ 
+    float: left;
+    margin: auto;
+    background-image: url(https://st2.depositphotos.com/1063437/7297/i/450/depositphotos_72973949-stock-photo-composition-with-breakfast-on-the.jpg);
+}
+
+.last-sect{
+    
+    width: 100%;
+   /* border: 1px solid black;*/ 
+    float: left;
+    background-color: azure;
+    padding: 3rem;
+}
+
+.last-sect{
+    text-align: center;
+}
+
+.days-1{
+    /* margin-left: -10px; */
+}
+
+.days-2{
+    /* margin-left: 550px; */
+}
+
+.hours-1{
+    /* margin-left: -640px; */
+}
+
+.hours-2{
+    /* margin-left: 890px;
+    position: r;
+    bottom: -1245px; */
+}
+
+.day{
+    display: flex;
+    justify-content: space-between;
+    padding: 3rem;
+}
+
+.call{
+    text-decoration: none;
+    position: relative;
+    bottom: -25px;
+    margin-left: -10px;
+}
+
+.cell-img{
+    position: relative;
+    left: 50px;
+    width: 3%;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    
+}
+
+.book{
+   margin-left: 10px;
+   color: #ff9000;
+}
+
+.number{
+    margin-right: 10px;
+    position: relative;
+    bottom: -10px;
+    color: #ff9000;
+}
+
+.last-sect2{
+    height: 400px;
+    width: 100%;
+    /*border: 1px solid black;*/ 
+    float: left; 
+    text-align: center; 
+    background-color: aliceblue;
+}
+
+.last-span{
+    position: relative;
+    bottom: -50px;
+    color: #ff9000;
+}
+
+.last-h1{
+    position: relative;
+    bottom: -50px;   
+}
+
+.last-img{
+    position: relative;
+    bottom: -60px;
+    width: 5%;
+}
+
+.last-h4{
+    position: relative;
+    bottom: -55px;
+    margin-left: -10px;
+}
+
+.last-span2{
+    /*margin-left: -10px;*/
+    position: relative;
+    bottom: -50px;
+}
+
+.last-img2{
+    position: relative;
+    bottom: -75px;
+    width: 8.5%;
+    margin-left: -100px; 
+     
+}
+
+.last-p{
+    position: relative;
+    bottom: -70px;
+    width: 60%;
+    margin-left: 268px;
+}
+
+
+
+
+
+
